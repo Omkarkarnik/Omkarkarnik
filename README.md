@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Secure Password Management System Project for NOVOBI<br>👯 I’m actively looking for Junior level Software Engineering roles<br>🤝 I’m looking for help with leetcode buddy<br>🌱 I’m currently learning React<br>💬 Ask me about my projects<br>⚡ Fun fact - I'm a student at the University of Dayton
+🔭 I’m currently working on Secure Password Management System Project for NOVOBI<br>👯 I’m actively looking for Junior level Software Engineering roles<br>🤝 I’m looking for help with leetcode buddy<br>🌱 I’m currently learning React<br>💬 Ask me about my projects<br>⚡ I'm a student at the University of Dayton
 
 
 ## 🌐 Socials:
