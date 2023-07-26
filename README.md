@@ -1,7 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Secure Password Management System Project for NOVOBI<br>👯 I’m actively looking for Junior level Software Engineering roles<br>🤝 I’m looking for help with leetcode buddy<br>🌱 I’m currently learning React<br>💬 Ask me about my projects<br>⚡ I'm a student at the University of Dayton
-
+🔭 I’m currently working on Secure Password Management System Project for NOVOBI<br>👯 I’m actively looking for Junior level Software Engineering roles<br>🤝 I’m looking for help with leetcode buddy<br>🌱 I’m currently learning React<br>💬 Ask me about my projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karnik_omkar8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarkarnik2399) 
